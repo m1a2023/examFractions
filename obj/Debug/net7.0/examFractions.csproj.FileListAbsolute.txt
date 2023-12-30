@@ -1,0 +1,14 @@
+C:\Users\mag20\source\repos\examFractions\examFractions\bin\Debug\net7.0\examFractions.exe
+C:\Users\mag20\source\repos\examFractions\examFractions\bin\Debug\net7.0\examFractions.deps.json
+C:\Users\mag20\source\repos\examFractions\examFractions\bin\Debug\net7.0\examFractions.runtimeconfig.json
+C:\Users\mag20\source\repos\examFractions\examFractions\bin\Debug\net7.0\examFractions.dll
+C:\Users\mag20\source\repos\examFractions\examFractions\bin\Debug\net7.0\examFractions.pdb
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.AssemblyInfoInputs.cache
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.AssemblyInfo.cs
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.csproj.CoreCompileInputs.cache
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.dll
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\refint\examFractions.dll
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.pdb
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\examFractions.genruntimeconfig.cache
+C:\Users\mag20\source\repos\examFractions\examFractions\obj\Debug\net7.0\ref\examFractions.dll
